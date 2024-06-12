@@ -1,0 +1,33 @@
+{
+  _id: null,
+  fieldTypes: [
+    { k: '_id', v: 'objectId' },
+    { k: 'airTemperature', v: 'object' },
+    { k: 'atmosphericPressureChange', v: 'object' },
+    { k: 'atmosphericPressureObservation', v: 'object' },
+    { k: 'callLetters', v: 'string' },
+    { k: 'dataSource', v: 'string' },
+    { k: 'dewPoint', v: 'object' },
+    { k: 'elevation', v: 'int' },
+    { k: 'extremeAirTemperature', v: 'array' },
+    { k: 'liquidPrecipitation', v: 'array' },
+    { k: 'pastWeatherObservationManual', v: 'array' },
+    { k: 'position', v: 'object' },
+    { k: 'precipitationEstimatedObservation', v: 'object' },
+    { k: 'presentWeatherObservationManual', v: 'array' },
+    { k: 'pressure', v: 'object' },
+    { k: 'qualityControlProcess', v: 'string' },
+    { k: 'seaSurfaceTemperature', v: 'object' },
+    { k: 'sections', v: 'array' },
+    { k: 'skyCondition', v: 'object' },
+    { k: 'skyConditionObservation', v: 'object' },
+    { k: 'skyCoverLayer', v: 'array' },
+    { k: 'st', v: 'string' },
+    { k: 'ts', v: 'date' },
+    { k: 'type', v: 'string' },
+    { k: 'visibility', v: 'object' },
+    { k: 'waveMeasurement', v: 'object' },
+    { k: 'wind', v: 'object' }
+  ],
+  fieldCounts: { averageFieldCount: 22.2491, maxFieldCount: 25, minFieldCount: 17 }
+}
