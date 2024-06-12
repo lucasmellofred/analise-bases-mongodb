@@ -1,0 +1,6 @@
+{
+  _id: null,
+  averageFieldCount: 38.108010801080106,
+  maxFieldCount: 42,
+  minFieldCount: 33
+}
